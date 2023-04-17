@@ -1,0 +1,20 @@
+Wed Jan 18 18:46:51 EET 2023 : Apache Derby Network Server - 10.10.2.0 - (1582446) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Wed Jan 18 18:46:51 EET 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0185-c5c6-b129-ffffb41a6bac 
+on database directory D:\PL_2 project\01HYBER_MARKET\user1 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2cdf8d8a 
+Loaded from file:/C:/Users/mohamed%20hanafy/Documents/AirDroid/PublicStaging/db-derby-10.10.2.0-bin/db-derby-10.10.2.0-bin/db-derby-10.10.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.16+11-LTS-199
+user.dir=C:\Users\mohamed hanafy\Documents\AirDroid\PublicStaging\db-derby-10.10.2.0-bin\db-derby-10.10.2.0-bin\db-derby-10.10.2.0-bin
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=D:\PL_2 project\01HYBER_MARKET
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Jan 18 22:03:45 EET 2023: Shutting down Derby engine
+----------------------------------------------------------------
+Wed Jan 18 22:03:45 EET 2023:
+Shutting down instance a816c00e-0185-c5c6-b129-ffffb41a6bac on database directory D:\PL_2 project\01HYBER_MARKET\user1 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2cdf8d8a 
+----------------------------------------------------------------
